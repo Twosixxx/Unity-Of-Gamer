@@ -1,2 +1,2 @@
-# Unity-Of-Gamer
+# Unity-of-Gamers
 SA:MP GAMEMODE
